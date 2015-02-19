@@ -17,6 +17,16 @@ $RECYCLE.BIN/
 # Windows shortcuts
 *.lnk
 
+# Cython generated files
+*.c
+*.h
+*.pyd
+*.def
+*.o
+__pycache__
+build
+
+
 # =========================
 # Operating System Files
 # =========================
